@@ -1,0 +1,11 @@
+C:\Users\Emir\source\repos\UniNotSistemi\UniNotSistemi\bin\Debug\UniNotSistemi.exe.config
+C:\Users\Emir\source\repos\UniNotSistemi\UniNotSistemi\bin\Debug\UniNotSistemi.exe
+C:\Users\Emir\source\repos\UniNotSistemi\UniNotSistemi\bin\Debug\UniNotSistemi.pdb
+C:\Users\Emir\source\repos\UniNotSistemi\UniNotSistemi\obj\Debug\UniNotSistemi.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\UniNotSistemi\UniNotSistemi\obj\Debug\UniNotSistemi.OgrenciGiris.resources
+C:\Users\Emir\source\repos\UniNotSistemi\UniNotSistemi\obj\Debug\UniNotSistemi.Properties.Resources.resources
+C:\Users\Emir\source\repos\UniNotSistemi\UniNotSistemi\obj\Debug\UniNotSistemi.csproj.GenerateResource.cache
+C:\Users\Emir\source\repos\UniNotSistemi\UniNotSistemi\obj\Debug\UniNotSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\UniNotSistemi\UniNotSistemi\obj\Debug\UniNotSistemi.exe
+C:\Users\Emir\source\repos\UniNotSistemi\UniNotSistemi\obj\Debug\UniNotSistemi.pdb
+C:\Users\Emir\source\repos\UniNotSistemi\UniNotSistemi\obj\Debug\UniNotSistemi.OgrenciAnaForm.resources
